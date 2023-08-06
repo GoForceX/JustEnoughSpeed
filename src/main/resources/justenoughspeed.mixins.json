@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "cn.irchat.jes.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "justenoughspeed.refmap.json",
+  "mixins": [
+    "TooFastMixin"
+  ],
+  "client": [],
+  "server": []
+}
